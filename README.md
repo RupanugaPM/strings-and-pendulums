@@ -15,3 +15,5 @@ A Key: Pauses the simulation for one second.
 A converted python class from http://travisrtaylor.com/pendulum-explainer/ which is done in javascript
 
 a simulation for pendulums is done using lagrangian mechanics and rendered using pygame.
+
+runge kutta method is used for ticks.
