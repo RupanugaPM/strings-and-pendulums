@@ -5,20 +5,8 @@ This Pygame script demonstrates a tentacle-like segmented object that follows th
 
 Features
 Segmented Tentacle: A chain of connected segments that follow the mouse cursor.
-Gravity Simulation: Optional gravity effect on the segments.
 Starfield Simulation: Stars moving towards the screen center, creating a 3D effect (commented out in the main loop).
-Installation
-Install Python 3.x from python.org.
-Install Pygame:
-bash
-Copy code
-pip install pygame
-Usage
-Run the script:
 
-bash
-Copy code
-python tentacle_simulation.py
 Controls
 Mouse: The tentacle follows the mouse cursor.
 A Key: Pauses the simulation for one second.
