@@ -1,4 +1,4 @@
-# strings-and-pendulums
+# strings-and-pendulums-and-rain
 ### strings:
 Forward and backward kinematic file contains a basic implementation of string simulation.
 This Pygame script demonstrates a tentacle-like segmented object that follows the mouse cursor, along with a starfield simulation (currently commented out). The application showcases basic principles of physics and animation in Pygame.
